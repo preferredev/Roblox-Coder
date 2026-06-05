@@ -1,4 +1,4 @@
-# - Roblox-Coder
+# Roblox-Coder
 
 ## / Project Overview
 
