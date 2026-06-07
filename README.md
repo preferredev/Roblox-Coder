@@ -1,4 +1,5 @@
 # Roblox-Coder
+Update: Released June 5, 2026. Reached 417+ downloads within the first 2 days.
 
 ## / Project Overview
 
